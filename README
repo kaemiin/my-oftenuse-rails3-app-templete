@@ -1,5 +1,5 @@
 How to get it?
-git clone https://github.com/kaemiin/my-oftenuse-rails3-app-templete.git
+git clone git://github.com/kaemiin/my-oftenuse-rails3-app-templete.git
 
 Use it?
 rails new YOUR_PROJECT_NAME -m my-oftenuse-rails3-app-templete/rails.rb
