@@ -1,1 +1,9 @@
+How to get it?
+git clone https://github.com/kaemiin/my-oftenuse-rails3-app-templete.git
+
+Use it?
+rails new YOUR_PROJECT_NAME -m my-oftenuse-rails3-app-templete/rails.rb
+
+License?
 The code is licensed under the MIT: http://www.opensource.org/licenses/mit-license.php
+
